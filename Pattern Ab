@@ -16,3 +16,9 @@ int main()
       }
     return 0;
 }
+
+Output:
+enter n value :3
+Aa	
+Bb	Cc	
+Dd	Ee	Ff	
